@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
    int n;
+   cout<<"Enter number of O's";
    cin>>n;
    if(n>=50 || n<=0 )
    {
@@ -15,6 +16,6 @@ int main()
       cout>>"o";
    }
    cout>>"w";
-
+main();
 
 }
